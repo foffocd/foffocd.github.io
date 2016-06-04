@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: "OCD from Varying Perspectives"
-header-img: "img/Bendy_Tree_Contrast_Mask_Dark.jpg"
+header-img: "img/meditation cm.jpg"
 ---
 
 
