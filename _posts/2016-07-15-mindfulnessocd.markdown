@@ -2,7 +2,7 @@
 layout:     post
 title:      "Mindfulness and CBT"
 subtitle:   ""
-date:       2016-07-15 15:50:00
+date:       2016-07-15 15:00:00
 author:     "Will"
 header-img: "img/mindfulnessocd/wavingintothewind.jpg"
 ---
