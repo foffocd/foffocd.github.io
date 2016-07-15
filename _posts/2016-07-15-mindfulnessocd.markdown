@@ -4,12 +4,12 @@ title:      "Mindfulness and CBT"
 subtitle:   ""
 date:       2016-07-15 15:50:00
 author:     "Will"
-header-img: "img/wavingintothewind/wavingintothewind.jpg"
+header-img: "img/mindfulnessocd/wavingintothewind.jpg"
 ---
 In March on a beach in Connemara I was walking my dog and my wife, with a gale blowing in off the Atlantic. There is a sandbar separating one bay from another with waves hitting both sides of the beach. Below is a picture of this sandbar on a calm day, while above the gale was rushing on shore, blowing across the sandbar and catching the top of the waves on the far shore, spraying them backwards - it got me thinking.
 
 <div align="center" >
-	<img src="/img/wavingintothewind/sandbar.jpg" alt="The sandbar!"  />
+	<img src="/img/mindfulnessocd/sandbar.jpg" alt="The sandbar!"  />
 </div>
 
 
@@ -22,20 +22,20 @@ The formation of waves is complicated. Check out the [Wikipedia](https://en.wiki
 I started thinking about how the mind is like the ocean. When I'm on the beach I can see waves coming towards me that I have no control over. I don't know how these waves were created. I must have created them, somewhere deep in my mind with a wind far far away and they have patiently propagated. They will break on the beach right in front of me. I can't do anything about it except hear the crash and then the fizz as they retreat.
 
 <div align="center" >
-	<img src="/img/wavingintothewind/distant_local_wind.png" alt="distant local"  />
+	<img src="/img/mindfulnessocd/distant_local_wind.png" alt="distant local"  />
 </div>
 
 # Resisting Thoughts
 I can see a big wave coming, it feels like I never created it, maybe it's the wake from a ship. It's dark and steep, pushing through the other waves, staring at me, coming to get me. It's like an awful thought I never want to accept, the closer it comes the darker it gets. There is nothing I can do.
 
 <div align="center" >
-	<img src="/img/wavingintothewind/rogue_wave.png" alt="rogue wave"  />
+	<img src="/img/mindfulnessocd/rogue_wave.png" alt="rogue wave"  />
 </div>
 
 Wait! What about the local wind, a wind I can control. Something else created this wave but maybe I can stop it. So I whip up the local wind, turning a breeze into a gale. I'll send this wave propagating back to where it came from.
 
 <div align="center" >
-	<img src="/img/wavingintothewind/gale.png" alt="gale"  />
+	<img src="/img/mindfulnessocd/gale.png" alt="gale"  />
 </div>
 
 But it's futile. The local wind I created can only catch the top of the wave, causing it to spray backwards (like in the title picture). This blocks my view of the rest of my ocean and even worse now there's a local gale blowing around me. The big wave arrives and crashes just like before with the same fizzing retreat.
